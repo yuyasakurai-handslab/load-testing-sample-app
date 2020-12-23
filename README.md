@@ -48,5 +48,6 @@ copilot app delete --env-profiles test=default
 
 
 ## Reference
-- [Forked fromt this repository](https://github.com/Daviey/nyan-cat)
-Nyan Cat made with HTML5+CSS3 (and JavaScript :T).
+- Forked from [this repository](https://github.com/Daviey/nyan-cat)
+
+    - Nyan Cat made with HTML5+CSS3 (and JavaScript :T).

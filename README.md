@@ -12,7 +12,7 @@ RUN apk add openssl \
 ```
 
 nginx.conf
-[load-test.conf](nginx/conf/load-test.conf)(一部抜粋)
+[load-test.conf](conf/nginx/load-test.conf)(一部抜粋)
 ```nginx
     location / {
         auth_basic           "closed site";

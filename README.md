@@ -34,7 +34,7 @@ ECSで簡単デプロイ
 ```bash
 brew install aws/tap/copilot-cli
 ```
-### ccopilot init
+### copilot init
 ```bash
 copilot init 
 ```
